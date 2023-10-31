@@ -10,9 +10,6 @@ Welcome to the Blog App repository! This application is built using the MERN (Mo
 - **Update Blog:** Edit and update your blogs as your content evolves.
 - **View Other User Blogs:** Explore and read blogs published by other users.
 
-## Screenshots
-
-![Screenshot 1](https://user-images.githubusercontent.com/67452985/172217325-4378400e-60a0-4364-aadb-89e900886a1c.png)
 
 ## Getting Started
 
